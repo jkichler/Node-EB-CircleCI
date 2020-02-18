@@ -1,0 +1,23 @@
+{
+  "name": "node-eb-circleci",
+  "version": "1.0.0",
+  "description": "test application for deploying to Elastic Beanstalk",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkichler/Node-EB-CircleCI.git"
+  },
+  "author": "Justin Kichler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkichler/Node-EB-CircleCI/issues"
+  },
+  "homepage": "https://github.com/jkichler/Node-EB-CircleCI#readme"
+}

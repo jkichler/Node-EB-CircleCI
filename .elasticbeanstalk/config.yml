@@ -4,4 +4,6 @@ branch-defaults:
 global:
   application_name: NodeEbCircleci-env
   default_ec2_keyname: e-4adh7t5cpu
+  default_platform: Node.js running on 64bit Amazon Linux/4.13.1
+  default_region: us-east-2
   sc: git

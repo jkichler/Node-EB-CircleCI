@@ -1,0 +1,7 @@
+branch-defaults:
+  master:
+    environment: NodeEbCircleci-env
+global:
+  application_name: NodeEbCircleci-env
+  default_ec2_keyname: e-4adh7t5cpu
+  sc: git

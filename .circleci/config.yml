@@ -19,7 +19,7 @@ jobs:
                   sudo pip install awsebcli --upgrade
             - run:
                 name: Deploying
-                command: eb deploy Node-EB-CircleCI
+                command: eb deploy NodeEbCircleci-env
 
 workflows:
   build-and-test:
